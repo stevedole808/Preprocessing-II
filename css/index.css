@@ -226,6 +226,10 @@ button {
   width: 200px;
   color: white;
 }
+header {
+  display: flex;
+  flex-direction: row;
+}
 .footer {
   width: 100%;
   border-top: 2px dashed silver;
